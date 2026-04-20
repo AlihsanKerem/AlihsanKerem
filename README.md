@@ -2,10 +2,6 @@
 
 ### Computer Engineering Student & Autonomous Systems Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlihsanKerem&label=Profile views&color=0e75b6&style=flat" alt="AlihsanKerem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlihsanKerem" alt="AlihsanKerem" /></a> </p>
-
 - 🔭 I'm currently working on **an autonomous ship and a multi-robot shared world model simulation.**
 
 - 🌱 I'm currently learning **advanced sensor fusion algorithms (like EKF) and deep diving into the ROS 2 Navigation2 (Nav2) stack.**
@@ -28,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlihsanKerem&show_icons=true&locale=en" alt="AlihsanKerem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlihsanKerem&" alt="AlihsanKerem" /></p>
-
